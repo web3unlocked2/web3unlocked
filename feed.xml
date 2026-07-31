@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
 <rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
   <channel>
     <title><![CDATA[Web3Unlocked Podcast]]></title>
@@ -20,6 +21,7 @@
     <itunes:author>Kenzi Moriyama, Sachi Nakamura, Diksha Kshirsagar</itunes:author>
     <itunes:owner>
       <itunes:name>Kenzi Moriyama, Sachi Nakamura, Diksha Kshirsagar</itunes:name>
+      <itunes:email>info@web3unlocked.io</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
