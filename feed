@@ -1,0 +1,743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-stylesheet type="text/xsl" href="https://media.rss.com/style.xsl"?><rss xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom" xml:lang="en" version="2.0">
+  <channel>
+    <title><![CDATA[Web3Unlocked Podcast]]></title>
+    <link>https://rss.com/podcasts/web3unlocked-podcast</link>
+    <atom:link href="https://media.rss.com/web3unlocked-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <description><![CDATA[<p>Unpacking AI, Crypto &amp; digital culture with Web3's boldest voices.</p>]]></description>
+    <generator>RSS.com 2026.721.95756</generator>
+    <lastBuildDate>Fri, 31 Jul 2026 18:24:18 GMT</lastBuildDate>
+    <language>en</language>
+    <itunes:image href="https://media.rss.com/web3unlocked-podcast/podcast_cover_20260731_114539_6027b6925cfb125a48732ed06553c211.png"/>
+    <podcast:guid>d9f5aefe-a442-5889-a362-351438810c6a</podcast:guid>
+    <image>
+      <url>https://media.rss.com/web3unlocked-podcast/podcast_cover_20260731_114539_6027b6925cfb125a48732ed06553c211.png</url>
+      <title>Web3Unlocked Podcast</title>
+      <link>https://rss.com/podcasts/web3unlocked-podcast</link>
+    </image>
+    <podcast:locked>no</podcast:locked>
+    <itunes:author>Kenzi Moriyama, Sachi Nakamura, Diksha Kshirsagar</itunes:author>
+    <itunes:owner>
+      <itunes:name>Kenzi Moriyama, Sachi Nakamura, Diksha Kshirsagar</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <podcast:medium>podcast</podcast:medium>
+    <item>
+      <title><![CDATA[Ron Bodkin | CEO and Co-Founder of Theoriq: Understanding Agent Collectives in AI]]></title>
+      <itunes:title><![CDATA[Ron Bodkin | CEO and Co-Founder of Theoriq: Understanding Agent Collectives in AI]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Ron Bodkin explores the intersection of AI and crypto, emphasizing responsibility, governance, and the transformative potential of Web3. He shares his journey from Google to founding Theoric and ChainML, reflecting on the shift from corporate AI leadership to startup innovation. The discussion covers agent collectives, challenges in AI standardization, and metrics for decentralized AI success. Ron also introduces Proof of Contribution and Collaboration as trust-building mechanisms in AI, along with Theoric’s core pillars—interoperability, composability, and decentralized innovation. He delves into token economics, governance, and company culture, concluding with insights on leadership and the future of AI.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037949</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037949/web3unlocked-podcast/2026_07_31_18_24_05_eb489050-6bd8-42ff-8392-a9cb6cf65707.mp3" length="55601620" type="audio/mpeg"/>
+      <guid isPermaLink="false">6ec46b7e-fbbf-4401-8b15-29fbc00b19ea</guid>
+      <itunes:duration>2912</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <pubDate>Fri, 31 Jul 2026 18:24:15 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_182330_13edd5029563ca1535afd8eaa5592354.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></title>
+      <itunes:title><![CDATA[Jay Jog | Co-Founder of Sei Labs : The EVM's Dominance And Its Limitations]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Jay from Sei Labs discusses the parallels between established cities and virtual machines, emphasizing the challenges of displacing dominant systems like the EVM. He shares his journey from traditional finance at Robinhood to now building Sei Network in Web3, highlighting the importance of user feedback and the need for higher throughput in blockchain technology. Jay introduces the concept of parallelization as a solution to current limitations and reflects on the role of memecoins in fostering community movements.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037943</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037943/web3unlocked-podcast/2026_07_31_18_19_56_56b0a58f-3a60-4a77-8d75-507e5436b432.mp3" length="47847840" type="audio/mpeg"/>
+      <guid isPermaLink="false">3a3e32e6-35ca-43b3-a262-5414c76f58fc</guid>
+      <itunes:duration>2587</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <pubDate>Fri, 10 Jul 2026 18:20:07 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_181927_b11f0a76148b9a02ea50738ab6fcc605.png"/>
+    </item>
+    <item>
+      <title><![CDATA[David Minarsch | Co-Founder & CEO of Valory : The Rise of Autonomous Agents and the Future of Web3]]></title>
+      <itunes:title><![CDATA[David Minarsch | Co-Founder & CEO of Valory : The Rise of Autonomous Agents and the Future of Web3]]></itunes:title>
+      <description><![CDATA[<p>Join David Minarsch as he explores the concept of autonomy and its impact on human-machine relationships. He shares his journey into the crypto and AI space, including his work with <a target="_blank" rel="noopener noreferrer nofollow" href="http://Fetch.ai">Fetch.ai</a> and the founding of Valory and OLAS. The conversation highlights the rise of autonomous agents, their practical applications, and the challenges within the Web3 AI landscape. David also emphasizes the value of mission-driven teams and the open-source ethos of OLAS, designed to coordinate decentralized autonomous agents effectively.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037941</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037941/web3unlocked-podcast/2026_07_31_18_18_55_d2ba37ec-b956-46e9-ba0f-bbc72e3623b1.mp3" length="60505943" type="audio/mpeg"/>
+      <guid isPermaLink="false">af34ae28-21b3-4c04-b60c-6964101b683f</guid>
+      <itunes:duration>3240</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <pubDate>Fri, 19 Jun 2026 18:20:05 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_181818_fdec62489daf2d684a7066d68c6e1f0f.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Anna Kazlauskas | CEO and Co-Founder of Vana : Solving AI's Data Dilemma]]></title>
+      <itunes:title><![CDATA[Anna Kazlauskas | CEO and Co-Founder of Vana : Solving AI's Data Dilemma]]></itunes:title>
+      <description><![CDATA[<p>Anna Kazlauskas discusses her path from traditional finance to the world of decentralized AI. She describes what it’s like building Vana, a platform that lets people own their data and contribute it to AI models, and explains why tokenomics plays an important role in their setup. Anna also discusses the challenges of starting a Web3 company, including how important it is to hire people who share the same mission. She dives into the AI data shortage and how Vana tackles this with decentralized data ownership and data DAOs. Other key topics include the difference between data DAOs, trusts, and unions, why private data is valuable, and lessons from projects like the Reddit Data DAO.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037936</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037936/web3unlocked-podcast/2026_07_31_18_17_36_86c68331-f015-4543-a131-5816cfb310c6.mp3" length="63041774" type="audio/mpeg"/>
+      <guid isPermaLink="false">b03c1d5e-597e-4f68-b5b7-77f5e4a4bdb4</guid>
+      <itunes:duration>3373</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <pubDate>Fri, 29 May 2026 18:18:54 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_181703_6381c457004b563b9a6c0f2347a38180.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Rushi Manche, Co-Founder of Movement Labs: Inside the Mind of a GenZ Web3 Founder]]></title>
+      <itunes:title><![CDATA[Rushi Manche, Co-Founder of Movement Labs: Inside the Mind of a GenZ Web3 Founder]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Rushi Manche, Co-Founder of Movement Labs, shares his journey from a young coder to a crypto innovator. He discusses the importance of offering your time and skills to gain experience, the rise of meme coins, and the shift to Gen Z marketing in crypto. Rushi explains how Movement Labs is making Ethereum more secure and accessible by introducing the Move language and technology. We do a deep dive into what Gen Z founders need to succeed.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037932</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037932/web3unlocked-podcast/2026_07_31_18_16_33_c886bd60-a75b-4c4c-b46a-4b99e07d16c8.mp3" length="50405736" type="audio/mpeg"/>
+      <guid isPermaLink="false">905da7e9-dad3-4373-bdef-0daf598c73b6</guid>
+      <itunes:duration>2665</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <pubDate>Fri, 08 May 2026 18:18:53 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_181602_14d8bdcf1f377f775be440bc54623458.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Nick Emmons | Co-Founder and CEO of Allora Labs : The Synergies Between Web3 and AI]]></title>
+      <itunes:title><![CDATA[Nick Emmons | Co-Founder and CEO of Allora Labs : The Synergies Between Web3 and AI]]></itunes:title>
+      <description><![CDATA[<p>In this conversation, Nick Emmons, Co-Founder of Allora Labs, delves into the synergies between crypto and AI, exploring the potential for decentralized AI to create a collective intelligence network. Emmons outlines Allora Labs' mission, emphasizing their focus on AI-powered DeFi and innovative financial primitives. He also discusses the ongoing debate between open and closed AI systems and highlights the opportunities available for blockchain developers within the AI space. The discussion wraps up with Emmons sharing the milestones and developments at Allora Labs that excite him the most, underscoring the crucial role of markets in problem-solving.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037921</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037921/web3unlocked-podcast/2026_07_31_18_02_19_9f079dfc-2ecd-44b6-a353-9382fc1d41f9.mp3" length="43780727" type="audio/mpeg"/>
+      <guid isPermaLink="false">518249c7-c869-447d-a919-592e64e5ec5f</guid>
+      <itunes:duration>2297</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <pubDate>Fri, 17 Apr 2026 18:02:24 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_180039_809aabc8e9c2c08c4e1443b49a612a27.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games : Tokenomics and In-Game Economies]]></title>
+      <itunes:title><![CDATA[Gabby Dizon | Co-Founder of Yield Guild Games : Tokenomics and In-Game Economies]]></itunes:title>
+      <description><![CDATA[<p>In this episode, Gabby Dizon, Co-Founder of Yield Guild Games (YGG), shares his journey from PC gamer to Web3 pioneer.</p><p>He discusses the challenges and future of Web3 gaming, highlighting AI's potential impact and the qualities needed for founders to succeed. Learn about YGG's evolution, their innovative on-chain guilds, and the key to mainstream adoption of Web3 games. Gabby Dizon is a game industry veteran with over 18 years of experience. He co-founded Yield Guild Games, a play-to-earn gaming guild and decentralized autonomous organization (DAO) that provides gamers all over the world an opportunity to access the NFT game assets needed to start playing blockchain games and earn crypto-based rewards. He is also a founding board member of the Blockchain Game Alliance. Gabby’s mission is to onboard millions of gamers so they can find opportunities in the digital world. He believes that the future of work is in the open Metaverse.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037920</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037920/web3unlocked-podcast/2026_07_31_18_00_00_31649a23-6d24-4d98-9b02-9ba3fd1968ae.mp3" length="54135037" type="audio/mpeg"/>
+      <guid isPermaLink="false">c06d5ea9-8464-4918-ad42-cf6717cf9d5e</guid>
+      <itunes:duration>2751</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <pubDate>Fri, 27 Mar 2026 18:00:19 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175923_645a7020c26365243a9c313abc3f673c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></title>
+      <itunes:title><![CDATA[Avery Ching | CTO and Co-Founder of Aptos Labs : Decoding the Aptos Ecosystem]]></itunes:title>
+      <description><![CDATA[<p>Avery Ching shares his outlook on the intersection of crypto and AI, the fundraising process for Aptos Labs, and the key differences between Aptos and other Layer 1s like Solana and Ethereum. He further discusses the use cases for Aptos, the challenges of the Move programming language, and Aptos' future goals.</p><p>Avery is the CTO and Co-Founder of Aptos Labs. He has spent over a decade building distributed technologies and scaling them to billions of users worldwide. Prior to co-founding Aptos Labs, Avery led the crypto platform team at Meta, focusing on all aspects of blockchain technology, from wallet infrastructure to L1 blockchain development—most notably the Diem blockchain.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037918</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037918/web3unlocked-podcast/2026_07_31_17_59_19_7bbb5ee3-8c0c-45b7-9539-ad1d153507a7.mp3" length="60981141" type="audio/mpeg"/>
+      <guid isPermaLink="false">f0156d56-db67-4211-8909-02fa2430dea8</guid>
+      <itunes:duration>3186</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <pubDate>Fri, 06 Mar 2026 17:59:29 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175836_6a3257efd62d6ad7a299384c916d0879.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Greg Osuri | Founder of Akash Network : Liberty, Community, and the Future of Decentralized AI]]></title>
+      <itunes:title><![CDATA[Greg Osuri | Founder of Akash Network : Liberty, Community, and the Future of Decentralized AI]]></itunes:title>
+      <description><![CDATA[<p>Greg Osuri, Founder of Akash Network, dives into the significance of liberty, sovereignty, and freedom in the decentralized web. Explore Greg's journey, the challenges he faced, and the importance of community in Web3. Learn about building a Web3 product, maintaining work-life balance for founders, and the differences between Web2 and Web3. Greg also shares his insights on open-source technology, decentralized AI, and the role of governments in AI decentralization. As cofounder and CEO of Akash Network, Greg has transformed the future of cloud computing.</p><p>Prior to Akash, Greg founded AngelHack, the world’s largest hackathon organization with over 100,000 developers across 50 cities worldwide. He launched his career at IBM and later designed Kaiser Permanente’s first cloud architecture.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037913</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037913/web3unlocked-podcast/2026_07_31_17_57_55_15e03df1-db23-433b-843e-466c6c07bfb7.mp3" length="83282835" type="audio/mpeg"/>
+      <guid isPermaLink="false">15f7b9d7-6c94-42f2-a7b5-a7187a689f3d</guid>
+      <itunes:duration>4728</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <pubDate>Fri, 13 Feb 2026 17:58:59 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175709_109590eec02093e4c43b445bae8b31b1.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Michael Heinrich | Founder of 0G Labs : Building The First Modular AI Chain]]></title>
+      <itunes:title><![CDATA[Michael Heinrich | Founder of 0G Labs : Building The First Modular AI Chain]]></itunes:title>
+      <description><![CDATA[<p>Michael discusses his journey from high school boredom to founding 0G Labs, the first modular AI Chain. Discover how spiritual readings and meditation changed Michael's leadership style helping him achieve success as a founder.</p><p>He shares the potential of decentralized AI infrastructure and why a community-owned approach is crucial for the future of AI and data. 0G Labs develops a technology blockchain platform. The Company offers an AI blockchain web3 modular platform that delivers advanced tools and applications that connect decentralized networks to unlock data infrastructure storage through machine learning solutions for businesses.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037911</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037911/web3unlocked-podcast/2026_07_31_17_56_41_73c79bcb-61f1-4a9a-bf4a-feb58fa0edfa.mp3" length="55284492" type="audio/mpeg"/>
+      <guid isPermaLink="false">f8ae929a-5b57-4b7c-b7d2-e5ce35f5c3a0</guid>
+      <itunes:duration>2993</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>3</itunes:season>
+      <podcast:season>3</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <pubDate>Fri, 23 Jan 2026 17:58:55 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175611_d568bbc25231308907df6ad7eb746a26.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ethan Sun | Co-Founder of MyShell : Empowering Creators at the Blockchain-AI Crossroads]]></title>
+      <itunes:title><![CDATA[Ethan Sun | Co-Founder of MyShell : Empowering Creators at the Blockchain-AI Crossroads]]></itunes:title>
+      <description><![CDATA[<p>Ethan Sun discusses his journey into the intersection of Blockchain &amp; AI, and the founding story of MyShell. He explains how MyShell aims to make AI models accessible to non-technical creators and foster a new wave of the creator economy. Ethan also shares insights on transitioning from Web2 to Web3, the role of blockchain in MyShell, and the Chinese perspective on crypto and AI. MyShell is building an AI consumer layer that connects users, creators, and open-source AI researchers.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037904</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037904/web3unlocked-podcast/2026_07_31_17_52_45_aacd5310-9e2d-49fd-9185-1e5387018754.mp3" length="60367116" type="audio/mpeg"/>
+      <guid isPermaLink="false">19ddff26-9e9a-4633-a482-de20c8bfee7a</guid>
+      <itunes:duration>3335</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <pubDate>Fri, 19 Dec 2025 17:53:00 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175203_c4fd295b861f62573b521aac68527083.png"/>
+    </item>
+    <item>
+      <title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation: Proving Personhood In A Digital Era]]></title>
+      <itunes:title><![CDATA[DC Builder | Research Engineer at Worldcoin Foundation: Proving Personhood In A Digital Era]]></itunes:title>
+      <description><![CDATA[<p>DC Builder, Research Engineer at Worldcoin Foundation, shares the project's approach towards decentralization and its mission to democratize digital identity and finance globally, ensuring fair wealth distribution. He highlights the challenges of the web of trust and biometrics in verifying personhood, shedding light on the Semaphore protocol's innovative use. We also delve into the emerging ZKML space and other crypto-AI projects that are reshaping the landscape.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037902</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037902/web3unlocked-podcast/2026_07_31_17_51_45_9c2c443f-fe9d-4248-b339-cb32821d180e.mp3" length="61963298" type="audio/mpeg"/>
+      <guid isPermaLink="false">1abddc6a-0ca3-475c-973d-80346fc1cbd5</guid>
+      <itunes:duration>3476</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <pubDate>Fri, 21 Nov 2025 17:52:54 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_175103_a01ae71e9a78e50a81ac2e602cdd4f8e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Richard Ma | Co-Founder and CEO of Quantstamp : Securing the Future of Web3]]></title>
+      <itunes:title><![CDATA[Richard Ma | Co-Founder and CEO of Quantstamp : Securing the Future of Web3]]></itunes:title>
+      <description><![CDATA[<p>Richard Ma, Co-founder and CEO of QuantStamp, shares his journey from working in the hedge fund industry to the world of Web3. Detailing the operational mechanics of QuantStamp, he highlights the changing customer base in the Web3 space and what makes Web3 startups successful in the long run.</p><p>Quantstamp is a global leader in blockchain security, on a mission to secure the future of web3. To date, it has performed more than 500 audits and secured over $200 billion in digital asset risk from hackers. Richard Ma is a former software engineer at Tower Research where he developed software that handled millions of dollars using extreme testing methods. He was inspired to found Quantstamp to improve security auditing after investing in the DAO and experiencing the aftermath firsthand. Richard aims to secure the future of blockchain technology through the Quantstamp protocol and better methods for secure enterprise blockchain deployments.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037898</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037898/web3unlocked-podcast/2026_07_31_17_49_59_29057b1f-21a8-4c88-abe0-d459c68ccffb.mp3" length="53924875" type="audio/mpeg"/>
+      <guid isPermaLink="false">8014cd49-b819-4661-82c2-33a87ec2cb11</guid>
+      <itunes:duration>3027</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <pubDate>Fri, 24 Oct 2025 17:50:38 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174925_80753232686e4c92d1bebfcf977c71c5.png"/>
+    </item>
+    <item>
+      <title><![CDATA[David Tse | Co-Founder of BabylonChain : Scaling Bitcoin To Secure A Decentralised World]]></title>
+      <itunes:title><![CDATA[David Tse | Co-Founder of BabylonChain : Scaling Bitcoin To Secure A Decentralised World]]></itunes:title>
+      <description><![CDATA[<p>David Tse, Co-Founder of BablylonChain, shares the future of scaling the Bitcoin ecosystem with staking, the founding story of BabylonChain, and his journey from academia to now being a Web3 founder. With BabylonChain, bitcoin holders can earn yields from their idle bitcoins in a secure way: no third-party trust, no bitcoin bridging to any other chain. Bitcoin holders simply lock their bitcoins in a self-custodial way to gain the rights to validate PoS chains and earn yields as a return.</p><p>David Tse is a visionary electrical engineering expert who has made groundbreaking contributions to wireless communication, blockchain technology, and genomics research. He is a celebrated professor at Stanford University and a co-founder of BabylonChain, a blockchain project that is Scaling Bitcoin to secure the decentralized world. In addition, David is an advisor of Bain Capital Crypto, where he provides strategic guidance to the investment firm.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037895</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037895/web3unlocked-podcast/2026_07_31_17_49_09_b2ae9fd9-4e52-454f-8db9-f2653cb92f40.mp3" length="51380704" type="audio/mpeg"/>
+      <guid isPermaLink="false">4625c824-587f-40c0-9e90-0274b3bf354e</guid>
+      <itunes:duration>2748</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <pubDate>Fri, 26 Sep 2025 17:49:38 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174830_d555a40fbb981aace65cc2aa6fb4f968.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network : Scaling Interoperability Networks In Blockchain]]></title>
+      <itunes:title><![CDATA[Sergey Gorbunov | Co-Founder of Axelar Network : Scaling Interoperability Networks In Blockchain]]></itunes:title>
+      <description><![CDATA[<p>Sergey Gorbunov, co-founder of Axelar, shares the future of interoperability in Web3, the founding story of Axelar, and what drives him as a Web3 founder to keep innovating. Axelar is the programmable Web3 interoperability platform, scaling the next generation of internet applications to billions of users.</p><p>Sergey is the co-founder of Axelar and an Assistant Professor at the University of Waterloo. He was previously a founding team member at Algorand. He received his Ph.D. from MIT, where he was a Microsoft Ph.D. fellow. His Ph.D. dissertation was on designing cryptographic tools for the cloud using lattice-based cryptography.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037893</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037893/web3unlocked-podcast/2026_07_31_17_48_00_7bf91ad0-bdc6-4eff-b336-75ed7b8db831.mp3" length="47572690" type="audio/mpeg"/>
+      <guid isPermaLink="false">683f9bfd-0492-40a6-a4c3-754642b1f56f</guid>
+      <itunes:duration>2548</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <pubDate>Fri, 29 Aug 2025 17:48:58 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174723_7f945ad87f27cc57fe99a1f7882f7393.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Victor Ji | Co-Founder of Manta Network : Building Real World Use-Cases with Zero Knowledge]]></title>
+      <itunes:title><![CDATA[Victor Ji | Co-Founder of Manta Network : Building Real World Use-Cases with Zero Knowledge]]></itunes:title>
+      <description><![CDATA[<p>Victor Ji, the Co-Founder of Manta Network explains the concept of Zero-Knowledge (ZK) proofs and how Manta is delivering a seamless developer experience for ZK applications. He also shares the milestones and turning points in Manta's journey and the qualities he believes are important for Web3 founders to succeed. Manta Network is building a secure and interoperable future with zero knowledge with a mission to deliver the best developer experience that enables ZK applications.</p><p>Before his role as the Co-Founder of Manta in 2020, Victor worked as a Research Assistant at Harvard's Belfer Center where he gained expertise in international security, diplomacy, and technology policy.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037890</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037890/web3unlocked-podcast/2026_07_31_17_45_44_310370ed-ee86-475d-9e69-b59e3e636c31.mp3" length="22493462" type="audio/mpeg"/>
+      <guid isPermaLink="false">30e70be4-fc59-4858-a379-c7dc72e9792f</guid>
+      <itunes:duration>1256</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <pubDate>Fri, 01 Aug 2025 17:47:17 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174523_4f42abdad53e06b6e877c5c09969be4c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandy Peng | Co-Founder of Scroll : Building Layer 2 Solutions Intertwined With The Ethereum Roadmap]]></title>
+      <itunes:title><![CDATA[Sandy Peng | Co-Founder of Scroll : Building Layer 2 Solutions Intertwined With The Ethereum Roadmap]]></itunes:title>
+      <description><![CDATA[<p>Sandy Peng, Co-Founder of Scroll, discusses the Layer 2 scaling solutions in Web3, the founding story of Scroll, and how to create a successful Web3 project by focusing on just building. Scroll is a community-first native zkEVM Layer 2 solution, and an open source project working at the forefront of zero-knowledge research.</p><p>Sandy has rich experience in research, business development, and project strategy. Having worked as both a startup founder and blockchain investor, she has unique insights into the development, compliance, and application of blockchain technology and open-source technology.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037889</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037889/web3unlocked-podcast/2026_07_31_17_45_58_2cfd541e-3f26-4bed-97e7-997db181d3aa.mp3" length="50879514" type="audio/mpeg"/>
+      <guid isPermaLink="false">f025a9c7-cd17-4119-b938-f0cea8a79260</guid>
+      <itunes:duration>2825</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <pubDate>Fri, 04 Jul 2025 17:47:16 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174523_b1a844ecef86d39aed9a6146bcfbbeaf.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Spadafora | Founder of BadgerDAO : Bringing Bitcoin To Defi]]></title>
+      <itunes:title><![CDATA[Chris Spadafora | Founder of BadgerDAO : Bringing Bitcoin To Defi]]></itunes:title>
+      <description><![CDATA[<p>Chris Spadafora, Founder of BadgerDAO, discusses decentralized governance, crypto tribalism, and his mission of bringing Bitcoin to the Defi ecosystem. BadgerDAO is an open-source, decentralized autonomous organization (DAO) that enables Bitcoin to be used as collateral across decentralized finance (DeFi) applications.</p><p>The DAO has its native token, BADGER which allows users to vote on proposals put forward by community members. Voting power is determined by the amount of BADGER owned, and proposals that receive enough votes are implemented on the platform.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037888</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037888/web3unlocked-podcast/2026_07_31_17_45_15_91316d0a-fc55-4e4d-ad19-974c44abce31.mp3" length="63442632" type="audio/mpeg"/>
+      <guid isPermaLink="false">b5e8d0f7-1120-4cda-989b-cdb02d9e1aa5</guid>
+      <itunes:duration>3510</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <pubDate>Fri, 06 Jun 2025 17:45:32 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174424_2cbab02553b91759a0e80c6c32690038.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Eli Ben-Sassoon | Founder of StarkWare : Scaling Blockchain With Zero Knowledge]]></title>
+      <itunes:title><![CDATA[Eli Ben-Sassoon | Founder of StarkWare : Scaling Blockchain With Zero Knowledge]]></itunes:title>
+      <description><![CDATA[<p>Eli Ben-Sasson, co-founder and President of StarkWare, discusses his journey into Web3, building blockchain solutions for scalability, and how StarkWare is working on onboarding the next billion users onto the blockchain.</p><p>StarkWare develops zero-knowledge proof technology that compresses information to address the blockchain's scalability problem. Before founding StarkWare, Eli was in core academia, earning his Ph.D. under Abel Prize winner Avi Wigderson and completing his postdoc from MIT and Harvard. His research focused on probabilistically checkable proofs (PCPs), and during the 2013 Bitcoin conference, he saw how his technology could address many of blockchain’s issues.</p><p>Today, StarkWare boasts three major technologies that significantly advance blockchain technology into the future. But Eli believes one of the biggest challenges will be to ensure that blockchain remains decentralized: “Whenever you have a system of great value, some parties will benefit from it, and they will want to increase their hold on it.</p><p>The whole point of blockchain and Web3 is about resisting that or finding ways to distribute and broaden the influence of various corners of society on it. I don’t know of a good solution today, but it’s the biggest long-term challenge."</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037886</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037886/web3unlocked-podcast/2026_07_31_17_44_41_06595cfe-968a-4f13-9845-c0a6fec289cf.mp3" length="55232840" type="audio/mpeg"/>
+      <guid isPermaLink="false">a5612065-e5b9-4445-8575-6af761a65c50</guid>
+      <itunes:duration>2854</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <pubDate>Fri, 09 May 2025 17:45:02 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174333_84ac71843fa7f9f566fec92df3823bac.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sreeram Kannan | Founder of EigenLayer : Blockchain Brings Trust to Tech Innovation]]></title>
+      <itunes:title><![CDATA[Sreeram Kannan | Founder of EigenLayer : Blockchain Brings Trust to Tech Innovation]]></itunes:title>
+      <description><![CDATA[<p>Sreeram Kannan, co-founder and CEO of EigenLayer, discusses his journey into Web3, why he left academia to build a blockchain product, and how EigenLayer is solving some of the biggest challenges in the crypto ecosystem.</p><p>Sreeram's journey into the realm of Web3 began with a deep-seated belief in the power of innovation to drive positive change. He recognized the potential of blockchain technology to democratize innovation and empower individuals to create value without the need for established reputations or access to exclusive resources.</p><p>This unwavering belief led Sreeram to abandon his academic career and embark on his entrepreneurial journey into the world of crypto.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037879</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037879/web3unlocked-podcast/2026_07_31_17_42_39_2d24ff10-3617-498f-8f71-3130bc2589eb.mp3" length="67783242" type="audio/mpeg"/>
+      <guid isPermaLink="false">34d9b40d-9d67-43f4-9f7d-0cfcfc51157a</guid>
+      <itunes:duration>3649</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <pubDate>Fri, 11 Apr 2025 17:44:42 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_174154_d69b902ea12a2a3e819a20240c7f51de.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Aniket Jindal | Co-Founder of Biconomy: Building Tools to Make Web3 Accessible to Everyone]]></title>
+      <itunes:title><![CDATA[Aniket Jindal | Co-Founder of Biconomy: Building Tools to Make Web3 Accessible to Everyone]]></itunes:title>
+      <description><![CDATA[<p><strong>Aniket Jindal | Co-Founder of Biconomy: Building Tools to Make Web3 Accessible to Everyone</strong></p><p>Aniket Jindal, Co-founder at Biconomy, delves into the qualities that define successful Web3 founders, the dynamics of bear markets, and the role of community management. He shared his insights into Biconomy's decentralized relay network and tokenomics and the critical significance of user experience (UX) in the blockchain ecosystem.</p><p>Biconomy is a multi-chain relay infrastructure and transaction network that aims to make Web3 user-friendly, accessible, and affordable. Learn about the challenges of crypto adoption and how Biconomy is simplifying user experiences. Explore the pivotal moments and lessons learned in the startup world, from Polygon adoption to the importance of staying connected with customers.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037794</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037794/web3unlocked-podcast/2026_07_31_16_50_31_454c9b9b-2d95-478b-a704-bcf81af59887.mp3" length="54628980" type="audio/mpeg"/>
+      <guid isPermaLink="false">3bb45906-4472-4597-bd5f-f6db112b111a</guid>
+      <itunes:duration>3414</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <pubDate>Fri, 14 Mar 2025 16:50:51 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_165029_65426dae88067de76185ba44073e376e.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games: From Games to Guilds - Navigating the Web3 Journey]]></title>
+      <itunes:title><![CDATA[Beryl Li | Co-Founder of Yield Guild Games: From Games to Guilds - Navigating the Web3 Journey]]></itunes:title>
+      <description><![CDATA[<p>Beryl Li is the Co-Founder of Yield Guild Games (YGG), the largest decentralized network of gaming guilds. During our chat, we discussed Beryl Li's unique journey into the Web3 space and her contributions to the industry. She shared her insights into the role of guilds in shaping the future of Web3, emphasizing Web3 education and driving the adoption of blockchain tech. We also talked about the significance of native tokens in shaping the decentralized gaming landscape and the art of community management within YGG's vast decentralized network.</p><p>Primarily focusing on Web3 education &amp; blockchain games, YGG has reshaped the gaming landscape. It caters to an ever-expanding community comprising gamers and blockchain enthusiasts alike.</p><p>Beryl's leadership shines brightly, earning her well-deserved recognition like a coveted spot in J.P. Morgan's Top 100 Women-Powered Businesses in the Asia-Pacific region. She's also a proud member of the inaugural cohort of Technology Pioneers and Unicorns at the World Economic Forum. Her journey is nothing short of an inspiration, particularly for women-of-color founders in the Web3 sphere.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037791</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037791/web3unlocked-podcast/2026_07_31_16_50_43_fb83b10a-b142-4561-ae78-f1f5fc3e66cf.mp3" length="53260850" type="audio/mpeg"/>
+      <guid isPermaLink="false">957406ad-11aa-45a7-9ba7-e1b0e58c6150</guid>
+      <itunes:duration>3150</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <pubDate>Fri, 14 Feb 2025 16:50:50 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164929_900e78dff7d74dc3da63c24983e807b6.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ryan Kim | Partner at Hashed: Cracking the Code on Web3 Investments in Asia]]></title>
+      <itunes:title><![CDATA[Ryan Kim | Partner at Hashed: Cracking the Code on Web3 Investments in Asia]]></itunes:title>
+      <description><![CDATA[<p>We spoke to Ryan Sungho Kim, a Partner at Hashed. He assesses deals from Asia and focuses on applications, corporate finance and enterprise. Previously, Ryan successfully exited his company LOOKET, a mobile solution for SME to Recobell (a Big Data company). Ryan was in charge of the development and planning of recommendation systems in his previous company, and he realized that the data space has many vulnerabilities. This led him to blockchain and ultimately made him co-found Hashed.</p><p>Founded by a team of serial entrepreneurs and engineers in 2017, Hashed is the preeminent blockchain firm in Asia with a portfolio that spans the globe. We started Hashed because we saw an opportunity for blockchain to not only reinvent the global financial system, but the very fabric of the internet itself. This is one of the most consequential moments in human history — an opportunity to overlay the power of digital networks onto human ones, and to usher in a future where technology empowers individuals, and not the other way around.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037786</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037786/web3unlocked-podcast/2026_07_31_16_48_34_8ddc5582-3b6d-4deb-a7e5-88e5ab31cd45.mp3" length="48235879" type="audio/mpeg"/>
+      <guid isPermaLink="false">ec2da6b5-4064-47b0-abda-52d1d265b238</guid>
+      <itunes:duration>2903</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <pubDate>Fri, 17 Jan 2025 16:48:54 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164608_efac48a60a69ce2f32aeb3ce654ff3e5.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity: Turning Your Web3 Community into True Evangelists]]></title>
+      <itunes:title><![CDATA[Jeff “Jiho” Zirlin | Co-Founder of Axie Infinity: Turning Your Web3 Community into True Evangelists]]></itunes:title>
+      <description><![CDATA[<p>Jiho talks about building in the bear market, being “small and unrecognized” yet confident in their founding team, vision, and community.</p><p>The team wanted to build a Web3 community that would reward those with the technical knowledge and those willing to learn about the technology. He perfectly sums up their founding principle: “Something that can play into childhood nostalgia is going to be a compelling way to educate people on Web3.”</p><p>Jiho also talks to us about the obstacles the Axie Infinity team faced while building and maintaining their product. One of those was working with the community on expectations around the company’s roadmap as they put out features. In fact, it was one of his biggest learnings:</p><p>“I think we're always thinking about the intended action that we want to coordinate with the community and the outside world. And how do we ensure that the things that we're launching and saying, that we can actually do that? I think it's more important in Web3… How do you turn your community into your best evangelists? And how do you have them doing the things that are most beneficial and helpful for the network, which benefits everybody? I think an understanding of aligned incentives and different economic models and the cold start problem is something that a lot of Web3 startups have to think about.”</p><p>Today, Axie Infinity is one of the biggest Play2Earn NFT games in the crypto world. Sky Mavis recently closed a $152 million Series B round eyeing Axie’s expansion, which brings the company valuation to $3 billion.</p><p>Listen to this episode as Jiho discusses the Play2Earn economy, his responsibilities as Chief Growth Officer at Axie Infinity, and more.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037785</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037785/web3unlocked-podcast/2026_07_31_16_48_14_95608de7-ed18-4c83-ba5b-01632cf8f76b.mp3" length="54247540" type="audio/mpeg"/>
+      <guid isPermaLink="false">98281551-121c-48f4-baf4-b77ee3dad55a</guid>
+      <itunes:duration>3214</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <pubDate>Fri, 20 Dec 2024 16:48:48 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164525_3e3e8dc6d068ab3971217d74462b68e2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Yat Siu | Co-Founder of Animoca Brands: The North Star of Web3 is Digital Ownership]]></title>
+      <itunes:title><![CDATA[Yat Siu | Co-Founder of Animoca Brands: The North Star of Web3 is Digital Ownership]]></itunes:title>
+      <description><![CDATA[<p>Yat Siu, Founder of Animoca Brands discusses how he went from learning music to becoming a tech entrepreneur, the ventures he has worked on and launched, his early days in Web3, his advice for Web3 founders, and so much more.</p><p>Coming from a musician family, Yat Siu was training to be a musician when he wrote software on his Atari ST in the 1980s to read music notations. While his software did not win him any marks with his teachers, he found that others used and appreciated it enough to pay him for it.</p><p>Soon, Siu would begin working for Atari themselves. He would also go on to work for Silicon Graphics and AT&amp;T. His earliest tech entrepreneurial pursuit was establishing Hong Kong Cybercity (the first free web page and e-mail provider in Asia, later renamed Freenation). His foray into Web3 was, thus, inevitable.</p><p>In 2014, Siu co-founded Animoca Brands, which now uses blockchain and artificial intelligence to build games and other products. This occurred when Siu and his co-founders understood that NFTs enabled digital ownership of items. In fact, this principle led to Animoca Brands pivoting to blockchain.</p><p>“It’s a belief and conviction that came on a theory we had, which is ownership. So that’s why we always talked about digital ownership, which eventually became treated as property rights back in 2018. The principle of ownership creates network effects in which people build and compose on top will become so large that it basically becomes unstoppable."</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037784</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037784/web3unlocked-podcast/2026_07_31_16_45_39_8b4813b9-2eab-4f2c-97ad-74f43363a2bc.mp3" length="79755500" type="audio/mpeg"/>
+      <guid isPermaLink="false">863197ce-e064-4038-9f8f-f955bb05d16d</guid>
+      <itunes:duration>4812</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <pubDate>Fri, 22 Nov 2024 16:48:47 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164440_82dda3a2241ab5cf66d0cc5096bad471.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Lily Liu | President of The Solana Foundation: Why Blockchain Ecosystems are More Like Cities than Companies]]></title>
+      <itunes:title><![CDATA[Lily Liu | President of The Solana Foundation: Why Blockchain Ecosystems are More Like Cities than Companies]]></itunes:title>
+      <description><![CDATA[<p>Lily Liu is the President of the Solana Foundation. She is an entrepreneur and investor focused on the cryptocurrency industry. She has a background as a CFO and operating executive in the US, China, and throughout emerging markets. Lily is the Co-Founder of Anagram, and part of the founding team of Osmosis, and an advisor to Brave. Previously, Lily co-founded <a target="_blank" rel="noopener noreferrer nofollow" href="http://Earn.com">Earn.com</a> which was acquired by Coinbase in 2018. She believes that blockchain ecosystems are more like cities than companies. “I think trying to operate a blockchain like a company is where things start and end in terms of being successful on Web3.” Tune in to discover Lily's remarkable journey into the crypto space, from initial skepticism to groundbreaking success.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037781</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037781/web3unlocked-podcast/2026_07_31_16_44_25_3352db80-624e-4857-83d8-fab0cecc060f.mp3" length="65175486" type="audio/mpeg"/>
+      <guid isPermaLink="false">42722dc7-599f-49b2-a390-de6378e7593e</guid>
+      <itunes:duration>3942</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <pubDate>Fri, 25 Oct 2024 16:44:48 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164311_f87471401414ea4bae12186338701bf9.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jaynti Kanani | Co-Founder of Polygon: From Underdog to Champion]]></title>
+      <itunes:title><![CDATA[Jaynti Kanani | Co-Founder of Polygon: From Underdog to Champion]]></itunes:title>
+      <description><![CDATA[<p>Polygon is one of crypto's greatest underdog stories if not all of tech. And it all boils down to what makes one of its co-founders, Jaynti “JD” Kanani, a believer in Web3: that all you need is a laptop and an internet connection to build anything.</p><p>“You don’t need to be out there; put your name or face anywhere. You don’t have to go to Stanford or any big college. You don’t even have to go to school to be in Web3 because I see people in smaller villages from India building on Web3,” says JD.</p><p>In this episode, JD speaks about getting into Web3, scaling Polygon, and what he expects and would like to see for the future of Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037777</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037777/web3unlocked-podcast/2026_07_31_16_42_30_e9f7050a-a3c7-4dce-9e51-fb873893cb12.mp3" length="60322308" type="audio/mpeg"/>
+      <guid isPermaLink="false">e2023996-d84c-45b0-926a-9d965abd9b25</guid>
+      <itunes:duration>3221</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <pubDate>Fri, 27 Sep 2024 16:43:35 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164152_fd549bb885ac9dec22991f7b2bf2c9c3.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol: Scaling an L1 in a Bear Market]]></title>
+      <itunes:title><![CDATA[Illia Polosukhin | Co-Founder of NEAR Protocol: Scaling an L1 in a Bear Market]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of Web3Unlocked Podcast, Kenzi and Diksha Lyer speak to Illia Polosukhin, the Co-Founder of NEAR Protocol. He discusses NEAR’s creation, what it takes to have true scalability in Web3, and building through a bear market.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037763</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037763/web3unlocked-podcast/2026_07_31_16_41_42_b6758733-f97d-4225-b5df-30724fd4f98d.mp3" length="53551073" type="audio/mpeg"/>
+      <guid isPermaLink="false">0688612b-7a01-4733-9c01-22409b5c498a</guid>
+      <itunes:duration>3198</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <pubDate>Fri, 30 Aug 2024 16:42:14 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_164053_27d5c0f01fa747149d1fdf8bd73965e2.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Alex Svanevik | Co-Founder of Nansen: From Data Scientist to Web3 Founder]]></title>
+      <itunes:title><![CDATA[Alex Svanevik | Co-Founder of Nansen: From Data Scientist to Web3 Founder]]></itunes:title>
+      <description><![CDATA[<p>In this epsiode, Alex Svanevik shares his journey from data scientist to Web3 Founder, the business model of <a target="_blank" rel="noopener noreferrer nofollow" href="http://Nansen.ai">Nansen.ai</a>, and how to scale a user-centric product in Web3.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037756</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037756/web3unlocked-podcast/2026_07_31_16_37_19_bb6129f6-8b29-4fde-baeb-2a3a9512b9b6.mp3" length="46379720" type="audio/mpeg"/>
+      <guid isPermaLink="false">e783ccca-5697-421c-9ba7-861e2a63c1ee</guid>
+      <itunes:duration>2898</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <pubDate>Fri, 02 Aug 2024 16:41:07 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_163716_087315aa11e00a618aa9dc2a7b716148.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains: Building a Web3 Unicorn Without a Token]]></title>
+      <itunes:title><![CDATA[Matthew Gould | Founder & CEO of Unstoppable Domains: Building a Web3 Unicorn Without a Token]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi, Sachi and Diksha Lyer speak to Matthew Gould, the CEO of Unstoppable Domains. He discusses building a digital identity-focused Web3 company, what founders need to focus on for fundraising, and why he thinks token funding may be harmful to protocols.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037754</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037754/web3unlocked-podcast/2026_07_31_16_35_52_3d4c5e2e-1805-4974-9059-f0f29b25d14a.mp3" length="48718202" type="audio/mpeg"/>
+      <guid isPermaLink="false">1ef1d128-0d35-4c04-bac9-a092e0926b59</guid>
+      <itunes:duration>3044</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <podcast:season>2</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <pubDate>Fri, 05 Jul 2024 16:41:06 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_163549_c2a52ccca1cfd53cd157e82d85fb484f.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Harsh Rajat | Founder of Push Protocol: Web3 Market Sentiment, Raising Funds, & L1 wars]]></title>
+      <itunes:title><![CDATA[Harsh Rajat | Founder of Push Protocol: Web3 Market Sentiment, Raising Funds, & L1 wars]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi, Diksha and Sachi Mihara speak to Harsh Rajat, Founder of Push Protocol. Push Protocol is the communication protocol of web3. It enables cross-chain notifications and messaging for dapps, wallets, and services tied to wallet addresses. In a chat with us, he discusses how they approached Ethereum Foundation for funding, their learnings in community building, mentors in the crypto ecosystem, and more.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037641</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037641/web3unlocked-podcast/2026_07_31_15_47_18_efd7b5c6-0bfc-47d2-8669-31f4652c8603.mp3" length="78921186" type="audio/mpeg"/>
+      <guid isPermaLink="false">0c45c7e7-23ec-47c3-8587-61a4fb962681</guid>
+      <itunes:duration>4932</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <pubDate>Fri, 07 Jun 2024 15:47:25 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_154712_1797071b870d336bbbdeb3db749b3065.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Jack Lu | Co-Founder of Magic Eden: Going Multi-Chain, Building for Web3 and the Future of NFTs]]></title>
+      <itunes:title><![CDATA[Jack Lu | Co-Founder of Magic Eden: Going Multi-Chain, Building for Web3 and the Future of NFTs]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi, Diksha and Sachi speak to Jack Lu, CEO and one of the four co-founders of Magic Eden. Before co-founding Magic Eden, Jack worked at FTX, Google, and Boston Consulting Group. Magic Eden is an NFT marketplace launched in September 2021 and serves as a home base for SOL NFT collections. Initially launched on the Solana blockchain, it has since become multi-chain by integrating Ethereum-based NFT collections. In November 2022, Magic Eden added Polygon as their third supported chain, committing steadfastly to their vision of a multi-chain future. Since it was launched, Magic Eden has been lauded for its creator and community-focused tools, and was one of the first NFT marketplaces to offer the Launchpad feature to its users, which makes it easier for creators to create, mint, market, and successfully launch products.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037632</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037632/web3unlocked-podcast/2026_07_31_15_43_55_fd88a20a-f8e7-4fcf-b160-4b712000dc91.mp3" length="54282910" type="audio/mpeg"/>
+      <guid isPermaLink="false">0b9c4abc-08f0-4009-96b4-8cdf9957f009</guid>
+      <itunes:duration>3392</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <pubDate>Fri, 17 May 2024 15:45:52 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_154351_3943b98a36b1555cd871a7cf7b548385.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Chris Gonsalves | CEO of Community Gaming: Web3 Gaming Ecosystems and eSports]]></title>
+      <itunes:title><![CDATA[Chris Gonsalves | CEO of Community Gaming: Web3 Gaming Ecosystems and eSports]]></itunes:title>
+      <description><![CDATA[<p>In this week’s episode of Web3Unlocked Podcast, Kenzi and Diksha speak to Chris Gonsalves, the CEO of Community Gaming. He discusses how Community Gaming was created, how the Web3 gaming ecosystem differs from traditional eSports, and how Web3 gaming will change in the future.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037587</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037587/web3unlocked-podcast/2026_07_31_15_19_16_48a12e58-5c06-415a-aeff-ade28e82bfad.mp3" length="62070417" type="audio/mpeg"/>
+      <guid isPermaLink="false">e719d6e0-5e9f-4bf2-8bda-0dfdc7ae9f65</guid>
+      <itunes:duration>3852</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <pubDate>Fri, 26 Apr 2024 15:41:26 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_151821_8d27c4a17bd1bfa6d2c87eff19fed53c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon: Setbacks, Community Building and Rebranding Polygon]]></title>
+      <itunes:title><![CDATA[Sandeep Nailwal | Co-Founder of Polygon: Setbacks, Community Building and Rebranding Polygon]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi Watanabe and Diksha Lyer speak to Sandeep Nailwal on his entire journey with Polygon so far. He discusses how he got into Crypto, his commitment to the developer community, and what the future looks like for Web3 today.</p><p>Website: <a target="_blank" rel="noopener noreferrer nofollow" href="https://web3unlocked.io/podcast">https://web3unlocked.io/podcast</a></p><p>Twitter: @Web3UnlockedHQ</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037584</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037584/web3unlocked-podcast/2026_07_31_15_18_15_5cc26996-1f8d-4d4d-ad9d-28b58cfc6a58.mp3" length="51669173" type="audio/mpeg"/>
+      <guid isPermaLink="false">d4e0abeb-66af-469a-b264-6b9c82138355</guid>
+      <itunes:duration>3217</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <pubDate>Fri, 05 Apr 2024 15:41:25 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_151718_17cbae17b638dc80a3a83291bed4240c.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge: The Future of Defi]]></title>
+      <itunes:title><![CDATA[Lucas Vogelsang | Co-Founder of Centrifuge: The Future of Defi]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi and Diksha speak to Lucas Vogelsang, CEO, and Co-Founder of Centrifuge, focusing on bringing Real World Assets to Defi since the early days of Ethereum. During the discussion, Lucas covers the future of Defi, the Polkadot ecosystem, and his experiences of being a founder in the Web3 bear market.</p><p>Lucas had always been passionate about computers and coding. But, in 2017, after working in the tech space for seven years, he decided that he wanted to revolutionize the finance industry and use blockchain to build the backbone for financial transactions. That’s how Centrifuge was born and became a platform to help people access capital for future needs.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037575</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037575/web3unlocked-podcast/2026_07_31_15_16_20_ec90a23d-ae69-4b26-b1ce-c8ebf47a3041.mp3" length="52870843" type="audio/mpeg"/>
+      <guid isPermaLink="false">1f6dcdcf-a355-442a-ae7a-83243a7ca077</guid>
+      <itunes:duration>3295</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <pubDate>Fri, 15 Mar 2024 15:41:22 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_151535_177cf4e4395b2aa87d33e4637ad13d28.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Sota Watanabe | Co-Founder of Astar Network : Web3 Valuations and the Future of Decentralization]]></title>
+      <itunes:title><![CDATA[Sota Watanabe | Co-Founder of Astar Network : Web3 Valuations and the Future of Decentralization]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Unhashed Podcast, Kenzi speaks to Sota Watanabe, Founder of Astar Network, on being a Japanese founder in the crypto world, parameters that affect Web3 company valuations the most, the multichain future and the exciting new projects at Astar. Here are edited excerpts of the episode.</p><p>Before Sota Watanabe founded Astar Network in Japan in 2018, he studied information technology at the San Francisco State University in the US. He then worked at a blockchain startup, Chronicled, in the San Francisco Bay Area. After returning to Japan, he worked as a blockchain researcher at the University of Tokyo. But when Gavin Wood, the creator of Ethereum and Polkadot, visited Japan and talked about Web3, Sota decided to make Astar the Future of Smart Contracts for Multichain Hub on the Polkadot blockchain network.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037559</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037559/web3unlocked-podcast/2026_07_31_15_10_54_ee4843da-fbe3-4e38-947c-d3a1a99e4d04.mp3" length="83439294" type="audio/mpeg"/>
+      <guid isPermaLink="false">8d93567f-6481-43c7-9d84-171d4e568dac</guid>
+      <itunes:duration>5199</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <pubDate>Fri, 23 Feb 2024 15:13:17 GMT</pubDate>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_151013_437eae5e7c2b1093df05fb603477cf3f.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Nischal Shetty | Founder of Shardeum: Building in Web3 and the Importance of Community]]></title>
+      <itunes:title><![CDATA[Nischal Shetty | Founder of Shardeum: Building in Web3 and the Importance of Community]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi Moriyama and Diksha Kshirsagar speak to Nischal Shetty, Founder of WazirX and Shardeum, on decentralization, the right way to build communities, and making it in web 3.</p><p>Before Nischal launched WazirX and Shardeum, he started his entrepreneurial journey by creating a social media company (what began as JustUnfollow is now Crowdfire) in 2010. He was a software developer, and before 2010, he had a day job and worked on his app on the weekends and any free time he had. This social media app was based on the idea that most people needed a single account to manage their Instagram, FB, and other social media pages. The app was successful and got 20 million users. In 2017, the large social networks started changing many rules, which affected all the businesses built on their platforms. That’s when Nischal decided that he would build his next projects on a decentralized platform.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037557</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037557/web3unlocked-podcast/2026_07_31_15_10_47_4c63e185-4f36-4127-8489-5a6d3eb83fbb.mp3" length="83828789" type="audio/mpeg"/>
+      <guid isPermaLink="false">3c15d1d9-c693-4783-a1b0-8913e19a089e</guid>
+      <itunes:duration>5222</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <pubDate>Fri, 02 Feb 2024 15:13:15 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_150945_5f7dd28e9c55919a762a22120f884dfc.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Andrew Durgee | President of Republic Crypto: Building a Fund and Volatile Markets]]></title>
+      <itunes:title><![CDATA[Andrew Durgee | President of Republic Crypto: Building a Fund and Volatile Markets]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi Moriyama speaks to Andrew Durgee on the work Republic is doing, its various arms, the current market cycle, the impact of the recent Terra-Luna crash, and why Republic has zero attrition.</p><p>In terms of structure Republic has four different companies - a holding company, Republic Retail, Republic Capital, and Republic Crypto. Its mission has been to democratize finance and increase access and inclusion. But the regulatory framework makes it very difficult for retail investors to invest in early-stage startups in the US. The framework is based on an accreditation system with a series of requirements that need to be satisfied for an investor to participate in an early-stage venture. These include an average annual income above $200,000 or an average household income above $300,000 or a net worth of $1 mn and a few other parameters that keep a lot of retail investors out.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037556</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037556/web3unlocked-podcast/2026_07_31_15_09_43_66dcb6e7-50db-4844-848b-f7aae3bef27b.mp3" length="72115804" type="audio/mpeg"/>
+      <guid isPermaLink="false">4be84cf2-9803-4f59-af00-afa30e4d0318</guid>
+      <itunes:duration>4497</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <pubDate>Fri, 12 Jan 2024 15:13:14 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_150848_b14af74a1d4ff6396325bbc91a54a753.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Ciara Sun | Founder and Managing Partner of C² Ventures: Investing in Web3 Founders, Valuations, and Women in Crypto]]></title>
+      <itunes:title><![CDATA[Ciara Sun | Founder and Managing Partner of C² Ventures: Investing in Web3 Founders, Valuations, and Women in Crypto]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi Moriyama and Sachi Nakamura speak to Ciara Sun, Founder &amp; Managing Partner at <strong>C²</strong> Ventures, on being a woman in web3, the challenges she faced, and the road ahead for her investment firm.</p><p>Before she dived into the world of web3, she was a management consultant with Boston Consulting Group and Deloitte. Her journey to discovering crypto began in New York in 2017 when the city had become a hub for investors and entrepreneurs interested in blockchain. Having spent years working in banking, capital markets, and private equity, she understood how crucial digital assets and blockchain were for making the global economy more inclusive. After working at the crypto exchange, Huobi, in international business development, partnerships, and leading the global markets institutional business unit, decided to launch her firm, C² Ventures. The company focuses on empowering the creators of the next-generation web3 and metaverse applications.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037530</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037530/web3unlocked-podcast/2026_07_31_15_01_05_530e81fc-d7b4-465c-8bcd-1a6577393006.mp3" length="57882000" type="audio/mpeg"/>
+      <guid isPermaLink="false">84ea2709-ec0a-4fe0-9ca6-8b4c0da63c5c</guid>
+      <itunes:duration>3613</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <pubDate>Fri, 22 Dec 2023 15:13:10 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_145946_8f7a89c6ef0dd79ef2cd40876f7d8ab4.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Miles Anthony | Founder of Decentral Games: Building and Sustaining Play-to-Earn in the Metaverse]]></title>
+      <itunes:title><![CDATA[Miles Anthony | Founder of Decentral Games: Building and Sustaining Play-to-Earn in the Metaverse]]></itunes:title>
+      <description><![CDATA[<p>In this episode of Web3Unlocked Podcast, Kenzi Moriyama talks to Miles Anthony, Founder of Decentral Games. <strong>Decentral Games</strong> builds games that give players economic freedom through aligned incentives, self-custody and delegation of yield-bearing metaverse assets.</p><p>The game first launched its closed beta in September 2019 and currently includes poker, blackjack, roulette, backgammon, and slots. In a candid conversation, Miles shares his journey of building play-and-earn poker in the metaverse, its search for establishing product-market fit, the future of Web3 and more.</p>]]></description>
+      <link>https://rss.com/podcasts/web3unlocked-podcast/3037525</link>
+      <enclosure url="https://content.rss.com/episodes/396624/3037525/web3unlocked-podcast/2026_07_31_14_58_07_c0fb884e-059a-4452-b171-eefea71ae1f4.mp3" length="74308050" type="audio/mpeg"/>
+      <guid isPermaLink="false">4da42d97-8942-496a-865d-fe817b67b57a</guid>
+      <itunes:duration>4628</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <podcast:season>1</podcast:season>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <pubDate>Fri, 01 Dec 2023 15:13:09 GMT</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+      <podcast:txt purpose="ai-content">false</podcast:txt>
+      <itunes:image href="https://media.rss.com/web3unlocked-podcast/ep_cover_20260731_145726_b0bae97d2028108c0c1512298e412e61.png"/>
+    </item>
+  </channel>
+</rss>
